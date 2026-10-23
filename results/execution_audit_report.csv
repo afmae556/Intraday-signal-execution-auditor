@@ -1,0 +1,408 @@
+Fecha,Activo,Direccion,Horario,Resultado,R_Obtenido
+2025-07-14 04:22,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-07-14 09:10,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-07-14 09:39,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),1.5970149253730863
+2025-07-14 09:44,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),1.574675324675304
+2025-07-15 03:27,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4075436982520589
+2025-07-15 07:14,GBPUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-07-15 07:21,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-07-15 07:29,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.713527851458904
+2025-07-15 09:06,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-07-15 09:16,EURUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-07-15 12:00,AUDUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-07-16 03:15,USDJPY,SELL,Resto del Día,Break Even (BE),0.8372093023255668
+2025-07-16 04:14,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.3950870010234904
+2025-07-16 07:31,XAUUSD,BUY,Mañana (7-11),Break Even (BE),0.8333333333333334
+2025-07-16 16:16,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-07-17 07:28,NZDUSD,BUY,Mañana (7-11),Break Even (BE),1.203832752613219
+2025-07-17 07:37,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-07-18 06:52,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-07-18 07:11,XAUUSD,BUY,Mañana (7-11),Señal Inválida (Typo),0.0
+2025-07-18 07:13,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-07-22 06:54,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-07-22 07:04,EURUSD,BUY,Mañana (7-11),Señal Inválida (Typo),0.0
+2025-07-22 07:18,XAUUSD,BUY,Mañana (7-11),Señal Inválida (Typo),0.0
+2025-07-22 07:22,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-07-22 09:16,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-07-22 09:22,EURUSD,BUY,Mañana (7-11),Señal Inválida (Typo),0.0
+2025-07-23 02:37,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-07-23 04:02,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.8012684989429069
+2025-07-23 06:48,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.7320197044335526
+2025-07-23 08:45,NZDUSD,SELL,Mañana (7-11),Take Profit (TP2),2.2145328719722785
+2025-07-23 09:28,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-07-23 11:23,XAUUSD,BUY,Resto del Día,Break Even (BE),0.7465975372650527
+2025-07-24 06:33,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-07-24 08:09,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-07-25 02:02,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-07-25 02:45,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.6909722222222618
+2025-07-25 04:25,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-07-30 04:33,XAUUSD,SELL,Resto del Día,Take Profit (TP2),2.2920203735144806
+2025-07-30 12:02,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-07-31 04:29,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-07-31 06:39,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-07-31 07:42,GBPUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-07-31 07:57,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),4.411490683229753
+2025-07-31 09:41,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-08-01 02:14,XAUUSD,BUY,Resto del Día,Stop Loss (SL),1.0
+2025-08-01 07:02,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-04 07:38,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-08-04 08:00,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-08-04 08:50,GBPUSD,SELL,Mañana (7-11),Break Even (BE),0.4972067039105963
+2025-08-05 07:22,NZDUSD,BUY,Mañana (7-11),Take Profit (TP2),1.780797101449266
+2025-08-05 07:41,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-05 10:28,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),1.5
+2025-08-06 06:17,XAUUSD,BUY,Resto del Día,Take Profit (TP2),1.8333333333333333
+2025-08-06 06:19,EURUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-08-08 03:30,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-08-08 04:02,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-08-08 04:40,XAUUSD,SELL,Resto del Día,Take Profit (TP2),2.9483695652171336
+2025-08-08 05:42,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-08-11 04:26,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-08-12 03:55,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-08-12 04:47,GBPUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-08-12 05:47,XAUUSD,SELL,Resto del Día,Break Even (BE),0.6204044117646996
+2025-08-12 06:45,XAUUSD,BUY,Resto del Día,Break Even (BE),0.6666666666666666
+2025-08-12 07:46,EURUSD,SELL,Mañana (7-11),Break Even (BE),0.4848484848484868
+2025-08-13 06:33,XAUUSD,SELL,Resto del Día,Break Even (BE),0.4648074369189783
+2025-08-14 05:17,XAUUSD,SELL,Resto del Día,Take Profit (TP2),2.1075460487225435
+2025-08-14 05:18,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.7584388185654052
+2025-08-14 08:12,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.893772893772908
+2025-08-15 03:15,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-08-15 03:33,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4488448844884574
+2025-08-18 07:27,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-18 07:28,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-19 08:48,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-08-19 09:24,USDJPY,SELL,Mañana (7-11),Break Even (BE),0.5227272727272522
+2025-08-20 04:34,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-08-20 07:16,AUDUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-20 08:50,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-08-21 04:53,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-08-24 17:45,GBPUSD,SELL,Resto del Día,Break Even (BE),0.8205128205128125
+2025-08-24 17:56,USDJPY,BUY,Resto del Día,Break Even (BE),0.3713355048859818
+2025-08-24 18:33,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5662514156285438
+2025-08-25 11:48,NZDUSD,SELL,Resto del Día,Break Even (BE),0.5069930069930141
+2025-08-26 05:24,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-08-26 08:06,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),2.5421686746987886
+2025-08-27 07:08,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-08-28 04:27,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2025-08-28 08:10,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-08-28 08:36,EURUSD,BUY,Mañana (7-11),Break Even (BE),0.484782608695697
+2025-08-29 04:03,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-01 05:21,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-01 05:46,NZDUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-09-02 03:53,XAUUSD,BUY,Resto del Día,Break Even (BE),0.5
+2025-09-02 04:01,GBPUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-02 04:50,USDJPY,SELL,Resto del Día,Stop Loss (SL),1.0
+2025-09-02 05:03,EURUSD,BUY,Resto del Día,Break Even (BE),0.5452961672474138
+2025-09-02 06:04,XAUUSD,SELL,Resto del Día,Break Even (BE),0.4442658092175792
+2025-09-04 03:26,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4495741819811936
+2025-09-05 02:09,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-09-05 07:22,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-07 18:00,EURUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-07 18:04,GBPUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-08 06:02,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-10 07:27,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-10 07:31,XAUUSD,SELL,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-09-10 07:32,XAUUSD,SELL,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-09-10 07:54,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-09-10 09:27,GBPUSD,SELL,Mañana (7-11),Break Even (BE),0.502865329512881
+2025-09-11 04:33,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4968078932095014
+2025-09-11 07:26,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-11 07:39,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-11 17:07,EURUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-09-12 02:53,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-12 03:26,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-09-12 04:47,GBPUSD,BUY,Resto del Día,Break Even (BE),0.2818181818181898
+2025-09-16 08:38,USDJPY,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-16 09:47,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-17 05:16,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-09-17 06:25,USDJPY,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-17 08:56,EURUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-18 04:36,EURUSD,SELL,Resto del Día,Take Profit (TP2),1.5647382920109842
+2025-09-18 06:48,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-09-18 08:57,EURUSD,BUY,Mañana (7-11),Break Even (BE),0.4667832167831942
+2025-09-18 08:59,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-18 11:58,GBPUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-18 13:24,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-09-22 03:22,GBPUSD,SELL,Resto del Día,Take Profit (TP2),2.742718446601854
+2025-09-22 03:38,EURUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-09-22 07:49,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-22 23:57,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-09-23 14:43,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2025-09-24 03:25,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-09-24 05:14,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2025-09-24 09:58,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-24 15:01,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-09-25 07:46,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-09-25 07:55,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-26 03:06,GBPUSD,BUY,Resto del Día,Take Profit (TP2),1.6819306930692877
+2025-09-26 03:14,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5064043915827728
+2025-09-26 03:18,EURUSD,BUY,Resto del Día,Take Profit (TP2),1.6451612903226418
+2025-09-26 07:37,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),2.443609022556316
+2025-09-26 07:47,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-09-29 06:07,USDJPY,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-29 06:32,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2025-09-30 02:59,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-09-30 03:25,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-09-30 05:43,EURUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-10-01 09:14,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-10-02 00:40,XAUUSD,BUY,Resto del Día,Take Profit (TP2),1.7430221366699086
+2025-10-02 01:21,USDJPY,BUY,Resto del Día,Break Even (BE),0.4094982078853043
+2025-10-02 02:48,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-10-02 02:55,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-02 05:46,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-10-02 08:14,GBPUSD,SELL,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-10-02 09:01,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-10-03 00:36,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-10-03 02:58,XAUUSD,BUY,Resto del Día,Take Profit (TP2),1.6508972267536233
+2025-10-03 06:38,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-10-06 04:50,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-06 05:23,NZDUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-10-06 07:19,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-10-07 00:27,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-07 00:30,AUDUSD,SELL,Resto del Día,Señal Inválida (Typo),0.0
+2025-10-07 02:27,XAUUSD,BUY,Resto del Día,Take Profit (TP2),2.787878787878753
+2025-10-08 08:52,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-10-09 01:53,XAUUSD,BUY,Resto del Día,Break Even (BE),0.8019246190857896
+2025-10-09 23:33,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-10-13 04:33,GBPUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-13 04:39,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-13 05:15,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-10-14 08:11,GBPUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-10-14 08:22,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),2.35
+2025-10-14 08:27,EURUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-10-14 14:06,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-15 04:04,GBPUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-10-15 04:44,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-16 07:06,XAUUSD,BUY,Mañana (7-11),Break Even (BE),1.0
+2025-10-16 07:41,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-10-16 23:36,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-17 00:05,AUDUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-17 01:43,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-17 01:48,GBPUSD,SELL,Resto del Día,Take Profit (TP2),1.7173913043477185
+2025-10-17 01:53,GBPUSD,SELL,Resto del Día,Take Profit (TP2),3.1666666666668077
+2025-10-17 03:12,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-17 07:24,XAUUSD,BUY,Mañana (7-11),Break Even (BE),0.5971786833856133
+2025-10-20 00:48,USDJPY,BUY,Resto del Día,Take Profit (TP2),1.8263473053892447
+2025-10-20 00:58,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-21 03:08,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2025-10-22 08:14,XAUUSD,SELL,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-10-23 02:23,XAUUSD,SELL,Resto del Día,Break Even (BE),0.4716386554621867
+2025-10-23 04:01,EURUSD,BUY,Resto del Día,Take Profit (TP2),2.7639751552796645
+2025-10-23 04:57,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-24 06:08,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-28 04:40,GBPUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-10-29 05:06,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-10-29 10:40,GBPUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-10-30 04:07,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-10-30 04:23,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-10-30 04:59,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-10-31 03:52,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-11-03 12:33,EURUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-03 23:41,EURUSD,BUY,Resto del Día,Break Even (BE),0.5529801324503876
+2025-11-04 06:12,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-04 07:44,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-11-04 22:19,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-05 05:05,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-06 01:02,NZDUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-06 05:12,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-07 08:08,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-07 08:30,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-07 08:31,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-11 02:15,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-11 03:13,NZDUSD,BUY,Resto del Día,Break Even (BE),0.5233918128654882
+2025-11-11 03:18,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-12 03:21,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-12 03:37,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-14 05:52,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-17 03:29,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-18 05:18,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-18 10:14,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-11-20 06:06,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-11-20 07:22,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-20 07:22,AUDUSD,BUY,Mañana (7-11),Break Even (BE),0.568376068376089
+2025-11-20 08:37,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-20 11:02,GBPUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-20 11:48,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-21 08:04,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-11-21 08:58,GBPUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-21 09:22,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-25 00:02,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-25 00:16,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-25 06:36,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-11-25 08:34,EURUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-11-25 08:45,XAUUSD,SELL,Mañana (7-11),Break Even (BE),1.0
+2025-11-26 04:04,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-26 06:44,EURUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-11-26 07:07,XAUUSD,SELL,Mañana (7-11),Break Even (BE),0.526518391787888
+2025-11-27 02:31,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-11-27 06:50,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-11-27 23:47,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-11-28 00:21,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-11-28 06:43,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-11-28 07:06,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2025-12-01 07:25,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-02 05:27,XAUUSD,BUY,Resto del Día,Take Profit (TP2),3.372093023255672
+2025-12-02 05:47,EURUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-12-02 07:12,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-03 07:46,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-03 07:49,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-03 08:29,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-04 01:58,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4889975550122075
+2025-12-04 02:11,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-12-04 02:47,EURUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-12-04 06:27,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2025-12-05 04:03,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-12-05 04:15,NZDUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-12-05 10:08,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-08 02:59,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-12-09 04:50,XAUUSD,SELL,Resto del Día,Break Even (BE),0.3683729433272713
+2025-12-09 06:00,USDJPY,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-12-09 12:39,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5833333333333334
+2025-12-10 07:16,EURUSD,BUY,Mañana (7-11),Break Even (BE),0.6507936507933738
+2025-12-10 07:22,XAUUSD,SELL,Mañana (7-11),Break Even (BE),0.6875
+2025-12-10 14:04,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2025-12-10 14:13,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-12-10 14:24,USDJPY,BUY,Resto del Día,Missed (>40% Avance),0.0
+2025-12-11 02:14,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-12-11 09:52,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),2.0
+2025-12-11 10:10,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-12-12 04:56,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2025-12-12 07:24,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-16 08:06,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-12-17 09:23,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2025-12-19 05:09,XAUUSD,BUY,Resto del Día,Break Even (BE),0.5
+2025-12-23 05:55,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2025-12-23 08:59,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-23 09:07,XAUUSD,BUY,Mañana (7-11),Break Even (BE),0.7555391432790919
+2025-12-23 11:04,XAUUSD,BUY,Resto del Día,Take Profit (TP2),1.2106631989596723
+2025-12-23 23:01,XAUUSD,SELL,Resto del Día,Break Even (BE),0.641078838174271
+2025-12-26 08:07,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-29 07:53,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-29 12:04,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2025-12-30 08:24,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2025-12-30 08:37,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-12-30 10:16,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2025-12-31 04:29,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5357142857142857
+2025-12-31 04:33,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5357142857142857
+2025-12-31 06:46,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-02 08:14,EURUSD,BUY,Mañana (7-11),Break Even (BE),0.5944881889762899
+2026-01-02 09:04,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2026-01-06 01:29,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-07 04:07,XAUUSD,SELL,Resto del Día,Break Even (BE),0.5665685913938748
+2026-01-07 04:50,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-01-07 07:50,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-01-07 08:03,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2026-01-09 06:42,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-09 08:28,XAUUSD,BUY,Mañana (7-11),Take Profit (TP2),1.633617350890812
+2026-01-12 05:40,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-12 13:14,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2026-01-13 03:40,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-13 08:26,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-01-13 20:43,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-14 05:26,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-14 07:56,EURUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-01-14 08:20,XAUUSD,SELL,Mañana (7-11),Break Even (BE),0.6516314779270553
+2026-01-15 01:56,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-15 06:04,XAUUSD,SELL,Resto del Día,Break Even (BE),0.6066398390342498
+2026-01-15 23:16,XAUUSD,BUY,Resto del Día,Break Even (BE),0.6250827266710354
+2026-01-16 06:27,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-19 03:13,EURUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-19 04:11,GBPUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-01-21 04:10,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-01-21 09:52,XAUUSD,BUY,Mañana (7-11),Break Even (BE),0.6689291101055614
+2026-01-21 09:54,XAUUSD,BUY,Mañana (7-11),Break Even (BE),0.9090909090909092
+2026-01-22 03:10,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2026-01-22 03:35,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-01-22 04:23,EURUSD,BUY,Resto del Día,Take Profit (TP2),1.824999999999964
+2026-01-22 05:34,USDJPY,SELL,Resto del Día,Break Even (BE),0.5267857142857588
+2026-01-22 08:13,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-01-22 09:59,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2026-01-23 03:38,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-01-26 02:02,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4598603839441505
+2026-01-26 04:17,XAUUSD,SELL,Resto del Día,Break Even (BE),0.920454545454516
+2026-01-27 02:20,XAUUSD,SELL,Resto del Día,Break Even (BE),0.8840830449827164
+2026-01-28 04:25,XAUUSD,BUY,Resto del Día,Break Even (BE),0.7
+2026-01-29 02:43,XAUUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2026-01-29 03:11,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-01-29 08:44,EURUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2026-02-03 12:03,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-02-04 14:24,XAUUSD,BUY,Resto del Día,Break Even (BE),0.6020408163265306
+2026-02-05 01:17,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-02-05 05:46,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2026-02-06 01:33,XAUUSD,BUY,Resto del Día,Take Profit (TP2),2.0135135135135136
+2026-02-06 07:36,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-02-10 08:02,XAUUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2026-02-13 02:15,XAUUSD,SELL,Resto del Día,Break Even (BE),0.6477230655312755
+2026-02-16 02:18,XAUUSD,SELL,Resto del Día,Take Profit (TP2),2.145833333333333
+2026-02-18 06:32,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-02-18 10:08,XAUUSD,SELL,Mañana (7-11),Break Even (BE),0.6428571428571429
+2026-02-19 08:49,GBPUSD,BUY,Mañana (7-11),Break Even (BE),0.530050083472466
+2026-02-19 10:03,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-02-19 11:46,XAUUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2026-02-19 16:32,NZDUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-02-20 06:24,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-02-25 05:46,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-02-25 06:21,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-02-25 07:11,EURUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-02-26 07:48,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.375
+2026-02-26 11:10,XAUUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-02-27 06:20,XAUUSD,BUY,Resto del Día,Take Profit (TP2),1.9532967032966224
+2026-03-02 07:58,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-02 10:35,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-03 05:24,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.714134649277416
+2026-03-03 05:26,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.892561983471086
+2026-03-03 06:34,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-03-03 06:35,XAUUSD,BUY,Resto del Día,Stop Loss (SL),1.0
+2026-03-03 09:24,USDJPY,SELL,Mañana (7-11),Break Even (BE),1.1874999999998002
+2026-03-03 12:21,GBPUSD,BUY,Resto del Día,Break Even (BE),0.4213759213759249
+2026-03-04 05:34,XAUUSD,BUY,Resto del Día,Invalid Signal (Decimal Typo),0.0
+2026-03-04 05:37,XAUUSD,BUY,Resto del Día,Break Even (BE),0.6695906432748289
+2026-03-04 09:09,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.175
+2026-03-05 05:11,XAUUSD,BUY,Resto del Día,Break Even (BE),0.59375
+2026-03-05 11:45,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-03-06 04:16,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-03-06 07:03,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-06 08:29,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-09 02:33,XAUUSD,BUY,Resto del Día,Break Even (BE),0.4571788413098061
+2026-03-09 05:35,XAUUSD,SELL,Resto del Día,Break Even (BE),0.6842105263157895
+2026-03-10 05:46,XAUUSD,BUY,Resto del Día,Missed (>40% Avance),0.0
+2026-03-10 08:47,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-10 09:52,USDJPY,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-10 10:13,EURUSD,BUY,Mañana (7-11),Break Even (BE),0.4595238095238085
+2026-03-11 03:23,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2026-03-11 03:33,EURUSD,SELL,Resto del Día,Take Profit (TP2),1.7214452214451388
+2026-03-11 05:54,XAUUSD,SELL,Resto del Día,Take Profit (TP2),1.8875379939210049
+2026-03-11 06:38,GBPUSD,SELL,Resto del Día,Take Profit (TP2),2.218201754385904
+2026-03-11 06:44,AUDUSD,SELL,Resto del Día,Break Even (BE),0.4543378995434076
+2026-03-12 03:03,XAUUSD,SELL,Resto del Día,Take Profit (TP2),4.0
+2026-03-12 05:37,EURUSD,SELL,Resto del Día,Take Profit (TP2),0.1712962962962854
+2026-03-12 06:43,EURUSD,SELL,Resto del Día,Missed (A TP sin activar),0.0
+2026-03-12 08:44,XAUUSD,BUY,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-13 07:05,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.4117647058823533
+2026-03-13 07:09,XAUUSD,SELL,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-13 07:42,XAUUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-13 07:56,USDJPY,SELL,Mañana (7-11),Break Even (BE),0.4672131147540823
+2026-03-16 07:24,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-16 07:26,XAUUSD,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-17 04:43,XAUUSD,SELL,Resto del Día,Missed (>40% Avance),0.0
+2026-03-17 06:36,XAUUSD,BUY,Resto del Día,Break Even (BE),0.5833333333333334
+2026-03-17 07:05,EURUSD,BUY,Mañana (7-11),Missed (>40% Avance),0.0
+2026-03-17 09:26,XAUUSD,SELL,Mañana (7-11),Break Even (BE),0.6071428571428571
+2026-03-18 04:53,EURUSD,SELL,Resto del Día,Take Profit (TP2),1.7262357414449636
+2026-03-18 05:26,AUDUSD,SELL,Resto del Día,Break Even (BE),0.5593220338982984
+2026-03-18 06:36,XAUUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-03-18 15:48,GBPUSD,BUY,Resto del Día,Take Profit (TP2),1.785555555555579
+2026-03-18 16:23,EURUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-03-19 19:24,XAUUSD,SELL,Resto del Día,Stop Loss (SL),-1.0
+2026-03-20 02:27,EURUSD,SELL,Resto del Día,Take Profit (TP2),2.031645569620036
+2026-03-20 05:14,EURUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-03-20 05:18,EURUSD,BUY,Resto del Día,Missed (A TP sin activar),0.0
+2026-03-22 17:48,EURUSD,BUY,Resto del Día,Stop Loss (SL),-1.0
+2026-03-24 02:25,XAUUSD,SELL,Resto del Día,Break Even (BE),0.4060315816722729
+2026-03-24 05:49,EURUSD,BUY,Resto del Día,Señal Inválida (Typo),0.0
+2026-03-25 08:59,XAUUSD,SELL,Mañana (7-11),Take Profit (TP2),2.53125
+2026-03-25 09:07,USDJPY,SELL,Mañana (7-11),Stop Loss (SL),-1.0
+2026-03-26 01:19,XAUUSD,BUY,Resto del Día,Abierta al final de datos,0.0
+2026-03-26 08:01,GBPUSD,BUY,Mañana (7-11),Missed (A TP sin activar),0.0
+2026-03-26 09:07,EURUSD,BUY,Mañana (7-11),Abierta al final de datos,0.0

@@ -1,0 +1,4 @@
+Session,Executed_Trades,Missed_Latency,Filtered_Typos,Win_Rate_Pct,Full_TP2_Wins,Partial_BE_Wins,Stop_Losses,Avg_RR_TP2,Avg_RR_Partial_BE,Net_R,Max_Drawdown_R
+NY Morning (07:00-11:00 EST),88,59,4,48.86,17,26,45,2.3,0.67,11.65,-10.31
+Off-Peak Sessions,159,86,9,53.46,36,49,74,2.01,0.56,31.98,-18.89
+Global (24h All Sessions),247,145,13,51.82,53,75,119,2.11,0.6,43.63,-25.82
